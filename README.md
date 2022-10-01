@@ -23,6 +23,7 @@ The example above should be passed to the program this way:
 The solution of this puzzle looks like this :
 
 <img width="92" alt="Screen Shot 2022-10-01 at 8 07 27 PM" src="https://user-images.githubusercontent.com/79358300/193422465-9f5d4ea2-2222-4057-9463-c33e8590f476.png">
+
 ## Algorithm
 
 It is basically done by using a recursive function depending on a main condition that when is not fulfilled the recursion goes back. In other words, with backtracking
